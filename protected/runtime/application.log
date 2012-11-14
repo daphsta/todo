@@ -1,0 +1,1739 @@
+2012/11/13 22:06:48 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/dimitris/sites/yii/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/gii
+---
+2012/11/13 22:07:03 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/dimitris/sites/yii/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/gii
+---
+2012/11/13 22:07:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "giiii".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('giiii')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/giiii
+---
+2012/11/13 22:07:20 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/dimitris/sites/yii/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/gii
+---
+2012/11/13 22:15:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/dimitris/sites/yii/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/gii
+---
+2012/11/13 22:16:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/dimitris/sites/yii/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/gii
+---
+2012/11/13 22:16:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/dimitris/sites/yii/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/gii
+---
+2012/11/13 22:16:23 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/dimitris/sites/yii/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/gii
+---
+2012/11/13 22:16:42 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/dimitris/sites/yii/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/gii
+---
+2012/11/13 22:17:21 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'todo.todo' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `todo`.
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/13 22:17:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to find the code you requested.' in /home/dimitris/sites/yii/framework/gii/CCodeGenerator.php:91
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): CCodeGenerator->actionCode()
+#1 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#2 /home/dimitris/sites/yii/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#3 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('code')
+#5 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii/model/code/...')
+#6 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#7 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/gii/model/code/id/0
+HTTP_REFERER=http://todo/gii/model
+---
+2012/11/13 22:18:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to find the code you requested.' in /home/dimitris/sites/yii/framework/gii/CCodeGenerator.php:91
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): CCodeGenerator->actionCode()
+#1 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#2 /home/dimitris/sites/yii/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#3 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('code')
+#5 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii/model/code/...')
+#6 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#7 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/gii/model/code/id/0
+HTTP_REFERER=http://todo/gii/model
+---
+2012/11/13 22:22:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to find the code you requested.' in /home/dimitris/sites/yii/framework/gii/CCodeGenerator.php:91
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): CCodeGenerator->actionCode()
+#1 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#2 /home/dimitris/sites/yii/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#3 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('code')
+#5 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('gii/model/code/...')
+#6 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#7 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/gii/model/code/id/0
+HTTP_REFERER=http://todo/gii/model
+---
+2012/11/13 22:50:37 [error] [php] include(User.php): failed to open stream: No such file or directory (/home/dimitris/sites/yii/framework/YiiBase.php:423)
+Stack trace:
+#0 /home/dimitris/sites/todo/protected/components/UserIdentity.php(21): spl_autoload_call()
+#1 /home/dimitris/sites/todo/protected/models/LoginForm.php(52): UserIdentity->authenticate()
+#2 /home/dimitris/sites/yii/framework/validators/CInlineValidator.php(43): LoginForm->authenticate()
+#3 /home/dimitris/sites/yii/framework/validators/CValidator.php(214): CInlineValidator->validateAttribute()
+#4 /home/dimitris/sites/yii/framework/base/CModel.php(158): CInlineValidator->validate()
+#5 /home/dimitris/sites/todo/protected/controllers/SiteController.php(94): LoginForm->validate()
+#6 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#8 /home/dimitris/sites/yii/framework/web/CController.php(287): SiteController->runAction()
+#9 /home/dimitris/sites/yii/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#10 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): SiteController->run()
+#11 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#12 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#13 /home/dimitris/sites/todo/index.php(13): CWebApplication->run()
+REQUEST_URI=/site/login
+in /home/dimitris/sites/todo/protected/components/UserIdentity.php (21)
+in /home/dimitris/sites/todo/protected/models/LoginForm.php (52)
+in /home/dimitris/sites/todo/protected/controllers/SiteController.php (94)
+2012/11/13 22:51:11 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /home/dimitris/sites/yii/framework/web/auth/CAccessControlFilter.php:170
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/auth/CAccessControlFilter.php(133): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(39): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#3 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#4 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#6 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#8 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#9 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/site/login
+---
+2012/11/13 23:19:59 [error] [php] Argument 1 passed to CDbCommand::__construct() must be an instance of CDbConnection, string given, called in /home/dimitris/sites/todo/protected/models/Todos.php on line 92 and defined (/home/dimitris/sites/yii/framework/db/CDbCommand.php:101)
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(796): Todos->insert()
+#1 /home/dimitris/sites/todo/protected/controllers/TodoController.php(73): Todos->save()
+#2 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionCreate()
+#3 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#4 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): TodoController->runAction()
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#6 /home/dimitris/sites/yii/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#7 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): TodoController->filterAccessControl()
+#8 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#9 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(266): TodoController->runActionWithFilters()
+#11 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): TodoController->run()
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#13 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /home/dimitris/sites/todo/index.php(13): CWebApplication->run()
+REQUEST_URI=/todo/create
+in /home/dimitris/sites/todo/protected/models/Todos.php (92)
+in /home/dimitris/sites/todo/protected/controllers/TodoController.php (73)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/13 23:20:58 [error] [exception.CException] exception 'CException' with message 'Property "Todos.created_at" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(160): CComponent->__set('created_at', Object(CDbExpression))
+#1 /home/dimitris/sites/todo/protected/models/Todos.php(92): CActiveRecord->__set('created_at', Object(CDbExpression))
+#2 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(1011): Todos->beforeSave()
+#3 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(796): CActiveRecord->insert(NULL)
+#4 /home/dimitris/sites/todo/protected/controllers/TodoController.php(73): CActiveRecord->save()
+#5 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionCreate()
+#6 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#7 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#8 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#9 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#10 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#11 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#12 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#13 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('create')
+#15 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/create')
+#16 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#17 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/todo/create
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:22:10 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1809): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CDetailView.php(212): CHtml::value(Object(Todos), 'user_id')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CDetailView->run()
+#4 /home/dimitris/sites/todo/protected/views/todo/view.php(32): CBaseController->widget('zii.widgets.CDe...', Array)
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#7 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('view', Array, true)
+#9 /home/dimitris/sites/todo/protected/controllers/TodoController.php(56): CController->render('view', Array)
+#10 [internal function]: TodoController->actionView('1')
+#11 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('view')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/view')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/1
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:23:11 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1809): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CDetailView.php(212): CHtml::value(Object(Todos), 'user_id')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CDetailView->run()
+#4 /home/dimitris/sites/todo/protected/views/todo/view.php(32): CBaseController->widget('zii.widgets.CDe...', Array)
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#7 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('view', Array, true)
+#9 /home/dimitris/sites/todo/protected/controllers/TodoController.php(56): CController->render('view', Array)
+#10 [internal function]: TodoController->actionView('1')
+#11 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('view')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/view')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/1
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:23:12 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1809): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CDetailView.php(212): CHtml::value(Object(Todos), 'user_id')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CDetailView->run()
+#4 /home/dimitris/sites/todo/protected/views/todo/view.php(32): CBaseController->widget('zii.widgets.CDe...', Array)
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#7 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('view', Array, true)
+#9 /home/dimitris/sites/todo/protected/controllers/TodoController.php(56): CController->render('view', Array)
+#10 [internal function]: TodoController->actionView('1')
+#11 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('view')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/view')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/1
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:25:16 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1809): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CDetailView.php(212): CHtml::value(Object(Todos), 'user_id')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CDetailView->run()
+#4 /home/dimitris/sites/todo/protected/views/todo/view.php(32): CBaseController->widget('zii.widgets.CDe...', Array)
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#7 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('view', Array, true)
+#9 /home/dimitris/sites/todo/protected/controllers/TodoController.php(56): CController->render('view', Array)
+#10 [internal function]: TodoController->actionView('2')
+#11 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('view')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/view')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/2
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:25:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "update/view".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('update/view')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/update/2
+---
+2012/11/13 23:26:01 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1809): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CDetailView.php(212): CHtml::value(Object(Todos), 'user_id')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CDetailView->run()
+#4 /home/dimitris/sites/todo/protected/views/todo/view.php(32): CBaseController->widget('zii.widgets.CDe...', Array)
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#7 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('view', Array, true)
+#9 /home/dimitris/sites/todo/protected/controllers/TodoController.php(56): CController->render('view', Array)
+#10 [internal function]: TodoController->actionView('2')
+#11 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('view')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/view')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/2
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:26:03 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /home/dimitris/sites/yii/framework/web/auth/CAccessControlFilter.php:170
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/auth/CAccessControlFilter.php(133): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(39): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#3 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#4 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#6 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#8 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#9 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:26:35 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(2158): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1887): CHtml::resolveValue(Object(Todos), 'user_id')
+#3 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1217): CHtml::activeInputField('text', Object(Todos), 'user_id', Array)
+#4 /home/dimitris/sites/yii/framework/web/widgets/CActiveForm.php(658): CHtml::activeTextField(Object(Todos), 'user_id', Array)
+#5 /home/dimitris/sites/todo/protected/views/todo/_search.php(26): CActiveForm->textField(Object(Todos), 'user_id')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/todo/protected/views/todo/admin.php(40): CController->renderPartial('_search', Array)
+#10 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#11 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#12 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('admin', Array, true)
+#14 /home/dimitris/sites/todo/protected/controllers/TodoController.php(139): CController->render('admin', Array)
+#15 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionAdmin()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#17 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#20 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#21 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#22 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#23 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#25 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#26 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:26:56 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(2158): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1887): CHtml::resolveValue(Object(Todos), 'user_id')
+#3 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1217): CHtml::activeInputField('text', Object(Todos), 'user_id', Array)
+#4 /home/dimitris/sites/yii/framework/web/widgets/CActiveForm.php(658): CHtml::activeTextField(Object(Todos), 'user_id', Array)
+#5 /home/dimitris/sites/todo/protected/views/todo/_search.php(26): CActiveForm->textField(Object(Todos), 'user_id')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/todo/protected/views/todo/admin.php(40): CController->renderPartial('_search', Array)
+#10 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#11 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#12 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('admin', Array, true)
+#14 /home/dimitris/sites/todo/protected/controllers/TodoController.php(139): CController->render('admin', Array)
+#15 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionAdmin()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#17 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#20 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#21 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#22 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#23 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#25 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#26 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:26:56 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(2158): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1887): CHtml::resolveValue(Object(Todos), 'user_id')
+#3 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1217): CHtml::activeInputField('text', Object(Todos), 'user_id', Array)
+#4 /home/dimitris/sites/yii/framework/web/widgets/CActiveForm.php(658): CHtml::activeTextField(Object(Todos), 'user_id', Array)
+#5 /home/dimitris/sites/todo/protected/views/todo/_search.php(26): CActiveForm->textField(Object(Todos), 'user_id')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/todo/protected/views/todo/admin.php(40): CController->renderPartial('_search', Array)
+#10 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#11 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#12 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('admin', Array, true)
+#14 /home/dimitris/sites/todo/protected/controllers/TodoController.php(139): CController->render('admin', Array)
+#15 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionAdmin()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#17 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#20 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#21 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#22 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#23 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#25 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#26 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:27:55 [error] [exception.CException] exception 'CException' with message 'Property "Todos.creted_at" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('creted_at')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(2158): CActiveRecord->__get('creted_at')
+#2 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1887): CHtml::resolveValue(Object(Todos), 'creted_at')
+#3 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1217): CHtml::activeInputField('text', Object(Todos), 'creted_at', Array)
+#4 /home/dimitris/sites/yii/framework/web/widgets/CActiveForm.php(658): CHtml::activeTextField(Object(Todos), 'creted_at', Array)
+#5 /home/dimitris/sites/todo/protected/views/todo/_search.php(41): CActiveForm->textField(Object(Todos), 'creted_at')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/todo/protected/views/todo/admin.php(40): CController->renderPartial('_search', Array)
+#10 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#11 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#12 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('admin', Array, true)
+#14 /home/dimitris/sites/todo/protected/controllers/TodoController.php(139): CController->render('admin', Array)
+#15 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionAdmin()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#17 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#20 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#21 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#22 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#23 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#25 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#26 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:27:56 [error] [exception.CException] exception 'CException' with message 'Property "Todos.creted_at" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('creted_at')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(2158): CActiveRecord->__get('creted_at')
+#2 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1887): CHtml::resolveValue(Object(Todos), 'creted_at')
+#3 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1217): CHtml::activeInputField('text', Object(Todos), 'creted_at', Array)
+#4 /home/dimitris/sites/yii/framework/web/widgets/CActiveForm.php(658): CHtml::activeTextField(Object(Todos), 'creted_at', Array)
+#5 /home/dimitris/sites/todo/protected/views/todo/_search.php(41): CActiveForm->textField(Object(Todos), 'creted_at')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/todo/protected/views/todo/admin.php(40): CController->renderPartial('_search', Array)
+#10 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#11 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#12 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('admin', Array, true)
+#14 /home/dimitris/sites/todo/protected/controllers/TodoController.php(139): CController->render('admin', Array)
+#15 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionAdmin()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#17 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#19 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#20 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#21 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#22 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#23 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#25 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#26 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#27 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:28:11 [error] [exception.CException] exception 'CException' with message 'Property "Todos.creted_at" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('creted_at')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(2158): CActiveRecord->__get('creted_at')
+#2 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1887): CHtml::resolveValue(Object(Todos), 'creted_at')
+#3 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1217): CHtml::activeInputField('text', Object(Todos), 'creted_at', Array)
+#4 /home/dimitris/sites/yii/framework/zii/widgets/grid/CDataColumn.php(98): CHtml::activeTextField(Object(Todos), 'creted_at', Array)
+#5 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridColumn.php(110): CDataColumn->renderFilterCellContent()
+#6 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridView.php(477): CGridColumn->renderFilterCell()
+#7 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridView.php(455): CGridView->renderFilter()
+#8 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridView.php(425): CGridView->renderTableHeader()
+#9 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(161): CGridView->renderItems()
+#10 [internal function]: CBaseListView->renderSection(Array)
+#11 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(144): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{item...')
+#12 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(129): CBaseListView->renderContent()
+#13 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CBaseListView->run()
+#14 /home/dimitris/sites/todo/protected/views/todo/admin.php(61): CBaseController->widget('zii.widgets.gri...', Array)
+#15 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#16 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#17 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#18 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('admin', Array, true)
+#19 /home/dimitris/sites/todo/protected/controllers/TodoController.php(139): CController->render('admin', Array)
+#20 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionAdmin()
+#21 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#22 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#23 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#24 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#25 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#26 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#27 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#28 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#29 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#30 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#31 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#32 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#33 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:28:12 [error] [exception.CException] exception 'CException' with message 'Property "Todos.creted_at" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('creted_at')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(2158): CActiveRecord->__get('creted_at')
+#2 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1887): CHtml::resolveValue(Object(Todos), 'creted_at')
+#3 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1217): CHtml::activeInputField('text', Object(Todos), 'creted_at', Array)
+#4 /home/dimitris/sites/yii/framework/zii/widgets/grid/CDataColumn.php(98): CHtml::activeTextField(Object(Todos), 'creted_at', Array)
+#5 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridColumn.php(110): CDataColumn->renderFilterCellContent()
+#6 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridView.php(477): CGridColumn->renderFilterCell()
+#7 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridView.php(455): CGridView->renderFilter()
+#8 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridView.php(425): CGridView->renderTableHeader()
+#9 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(161): CGridView->renderItems()
+#10 [internal function]: CBaseListView->renderSection(Array)
+#11 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(144): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{item...')
+#12 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(129): CBaseListView->renderContent()
+#13 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CBaseListView->run()
+#14 /home/dimitris/sites/todo/protected/views/todo/admin.php(61): CBaseController->widget('zii.widgets.gri...', Array)
+#15 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#16 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#17 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#18 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('admin', Array, true)
+#19 /home/dimitris/sites/todo/protected/controllers/TodoController.php(139): CController->render('admin', Array)
+#20 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionAdmin()
+#21 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#22 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#23 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#24 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#25 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#26 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#27 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#28 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#29 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#30 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#31 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#32 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#33 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:28:12 [error] [exception.CException] exception 'CException' with message 'Property "Todos.creted_at" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('creted_at')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(2158): CActiveRecord->__get('creted_at')
+#2 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1887): CHtml::resolveValue(Object(Todos), 'creted_at')
+#3 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1217): CHtml::activeInputField('text', Object(Todos), 'creted_at', Array)
+#4 /home/dimitris/sites/yii/framework/zii/widgets/grid/CDataColumn.php(98): CHtml::activeTextField(Object(Todos), 'creted_at', Array)
+#5 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridColumn.php(110): CDataColumn->renderFilterCellContent()
+#6 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridView.php(477): CGridColumn->renderFilterCell()
+#7 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridView.php(455): CGridView->renderFilter()
+#8 /home/dimitris/sites/yii/framework/zii/widgets/grid/CGridView.php(425): CGridView->renderTableHeader()
+#9 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(161): CGridView->renderItems()
+#10 [internal function]: CBaseListView->renderSection(Array)
+#11 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(144): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{item...')
+#12 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(129): CBaseListView->renderContent()
+#13 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CBaseListView->run()
+#14 /home/dimitris/sites/todo/protected/views/todo/admin.php(61): CBaseController->widget('zii.widgets.gri...', Array)
+#15 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#16 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#17 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#18 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('admin', Array, true)
+#19 /home/dimitris/sites/todo/protected/controllers/TodoController.php(139): CController->render('admin', Array)
+#20 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionAdmin()
+#21 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#22 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#23 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#24 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#25 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#26 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#27 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#28 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#29 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('admin')
+#30 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/admin')
+#31 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#32 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#33 {main}
+REQUEST_URI=/todo/admin
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/13 23:28:48 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1809): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CDetailView.php(212): CHtml::value(Object(Todos), 'user_id')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CDetailView->run()
+#4 /home/dimitris/sites/todo/protected/views/todo/view.php(32): CBaseController->widget('zii.widgets.CDe...', Array)
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#7 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('view', Array, true)
+#9 /home/dimitris/sites/todo/protected/controllers/TodoController.php(52): CController->render('view', Array)
+#10 [internal function]: TodoController->actionView('2')
+#11 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('view')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/view')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/2
+HTTP_REFERER=http://todo/todo/update/2
+---
+2012/11/13 23:47:07 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/todo/protected/views/todo/_view.php(17): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/web/CBaseController.php(131): require('/home/dimitris/...')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, false)
+#4 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(260): CBaseController->renderFile('/home/dimitris/...', Array)
+#5 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(161): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(144): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{sort...')
+#8 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(129): CBaseListView->renderContent()
+#9 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CBaseListView->run()
+#10 /home/dimitris/sites/todo/protected/views/todo/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#12 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#14 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#15 /home/dimitris/sites/todo/protected/controllers/TodoController.php(124): CController->render('index', Array)
+#16 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#17 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#21 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#22 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#24 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#26 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#27 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#28 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/13 23:50:31 [error] [exception.CException] exception 'CException' with message 'Property "Todos.user_id" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('user_id')
+#1 /home/dimitris/sites/todo/protected/views/todo/_view.php(17): CActiveRecord->__get('user_id')
+#2 /home/dimitris/sites/yii/framework/web/CBaseController.php(131): require('/home/dimitris/...')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, false)
+#4 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(260): CBaseController->renderFile('/home/dimitris/...', Array)
+#5 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(161): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(144): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{sort...')
+#8 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(129): CBaseListView->renderContent()
+#9 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CBaseListView->run()
+#10 /home/dimitris/sites/todo/protected/views/todo/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#12 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#14 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#15 /home/dimitris/sites/todo/protected/controllers/TodoController.php(124): CController->render('index', Array)
+#16 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#17 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#21 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#22 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#24 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#26 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#27 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#28 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/13 23:52:13 [error] [exception.CException] exception 'CException' with message 'Property "Todos.creted_at" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('creted_at')
+#1 /home/dimitris/sites/todo/protected/views/todo/_view.php(29): CActiveRecord->__get('creted_at')
+#2 /home/dimitris/sites/yii/framework/web/CBaseController.php(131): require('/home/dimitris/...')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, false)
+#4 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(260): CBaseController->renderFile('/home/dimitris/...', Array)
+#5 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(161): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(144): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{sort...')
+#8 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(129): CBaseListView->renderContent()
+#9 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CBaseListView->run()
+#10 /home/dimitris/sites/todo/protected/views/todo/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#12 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#14 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#15 /home/dimitris/sites/todo/protected/controllers/TodoController.php(125): CController->render('index', Array)
+#16 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#17 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#21 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#22 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#24 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#26 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#27 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#28 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 00:15:21 [error] [exception.CException] exception 'CException' with message 'Property "CListView.{template}" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWidgetFactory.php(162): CComponent->__set('{template}', '{items}{pager}')
+#1 /home/dimitris/sites/yii/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(TodoController), 'zii.widgets.CLi...', Array)
+#2 /home/dimitris/sites/yii/framework/web/CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#3 /home/dimitris/sites/todo/protected/views/todo/index.php(27): CBaseController->widget('zii.widgets.CLi...', Array)
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#6 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#7 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#8 /home/dimitris/sites/todo/protected/controllers/TodoController.php(125): CController->render('index', Array)
+#9 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#13 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#17 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#19 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#20 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#21 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 00:16:12 [error] [exception.CException] exception 'CException' with message 'Property "Todos.creted_at" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('creted_at')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1809): CActiveRecord->__get('creted_at')
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CDetailView.php(212): CHtml::value(Object(Todos), 'creted_at')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CDetailView->run()
+#4 /home/dimitris/sites/todo/protected/views/todo/view.php(32): CBaseController->widget('zii.widgets.CDe...', Array)
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#7 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('view', Array, true)
+#9 /home/dimitris/sites/todo/protected/controllers/TodoController.php(52): CController->render('view', Array)
+#10 [internal function]: TodoController->actionView('3')
+#11 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('view')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/view')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/3
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/14 00:32:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "setCompleted".' in /home/dimitris/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(271): CController->missingAction('setCompleted')
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('setCompleted')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/setComplet...')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/todo/setCompleted/3
+HTTP_REFERER=http://todo/todo/index?status=1
+---
+2012/11/14 00:37:42 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /home/dimitris/sites/yii/framework/web/auth/CAccessControlFilter.php:170
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/auth/CAccessControlFilter.php(133): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(39): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#3 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#4 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#6 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('setCompleted')
+#8 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/setComplet...')
+#9 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/todo/setCompleted/33
+---
+2012/11/14 00:39:07 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'The requested page does not exist aasdas.' in /home/dimitris/sites/todo/protected/controllers/TodoController.php:112
+Stack trace:
+#0 [internal function]: TodoController->actionSetCompleted('33')
+#1 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#2 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#3 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#6 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#7 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('setCompleted')
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/setComplet...')
+#13 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/todo/setCompleted/33
+---
+2012/11/14 00:39:48 [error] [exception.CException] exception 'CException' with message 'The requested page does not exist aasdas.' in /home/dimitris/sites/todo/protected/controllers/TodoController.php:112
+Stack trace:
+#0 [internal function]: TodoController->actionSetCompleted('33')
+#1 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#2 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#3 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#6 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#7 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('setCompleted')
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/setComplet...')
+#13 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/todo/setCompleted/33
+---
+2012/11/14 00:42:09 [error] [exception.CException] exception 'CException' with message 'The requested page does not exist aasdas.' in /home/dimitris/sites/todo/protected/controllers/TodoController.php:112
+Stack trace:
+#0 [internal function]: TodoController->actionSetCompleted('33')
+#1 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#2 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#3 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#6 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#7 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('setCompleted')
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/setComplet...')
+#13 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/todo/setCompleted/33
+---
+2012/11/14 00:59:53 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in /home/dimitris/sites/yii/framework/web/CController.php:337
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#3 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('setCompleted')
+#9 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/setComplet...')
+#10 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/todo/setCompleted/index
+---
+2012/11/14 01:14:18 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in /home/dimitris/sites/yii/framework/web/CController.php:337
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#3 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('setCompleted')
+#9 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/setComplet...')
+#10 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/todo/setCompleted/index
+HTTP_REFERER=http://todo/todo/index
+---
+2012/11/14 01:14:27 [error] [exception.CException] exception 'CException' with message 'Todos and its behaviors do not have a method or closure named "getData".' in /home/dimitris/sites/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getData', Array)
+#1 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): CActiveRecord->__call('getData', Array)
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): Todos->getData()
+#3 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(182): CBaseListView->init()
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(148): CListView->init()
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#6 /home/dimitris/sites/todo/protected/views/todo/index.php(27): CBaseController->widget('zii.widgets.CLi...', Array)
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#8 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#10 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#11 /home/dimitris/sites/todo/protected/controllers/TodoController.php(199): CController->render('index', Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 01:14:40 [error] [exception.CException] exception 'CException' with message 'Todos and its behaviors do not have a method or closure named "getData".' in /home/dimitris/sites/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getData', Array)
+#1 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): CActiveRecord->__call('getData', Array)
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): Todos->getData()
+#3 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(182): CBaseListView->init()
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(148): CListView->init()
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#6 /home/dimitris/sites/todo/protected/views/todo/index.php(27): CBaseController->widget('zii.widgets.CLi...', Array)
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#8 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#10 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#11 /home/dimitris/sites/todo/protected/controllers/TodoController.php(199): CController->render('index', Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 01:15:22 [error] [exception.CException] exception 'CException' with message 'Todos and its behaviors do not have a method or closure named "getData".' in /home/dimitris/sites/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getData', Array)
+#1 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): CActiveRecord->__call('getData', Array)
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): Todos->getData()
+#3 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(182): CBaseListView->init()
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(148): CListView->init()
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#6 /home/dimitris/sites/todo/protected/views/todo/index.php(27): CBaseController->widget('zii.widgets.CLi...', Array)
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#8 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#10 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#11 /home/dimitris/sites/todo/protected/controllers/TodoController.php(199): CController->render('index', Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 01:19:09 [error] [exception.CException] exception 'CException' with message 'Todos and its behaviors do not have a method or closure named "getData".' in /home/dimitris/sites/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getData', Array)
+#1 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): CActiveRecord->__call('getData', Array)
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): Todos->getData()
+#3 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(182): CBaseListView->init()
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(148): CListView->init()
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#6 /home/dimitris/sites/todo/protected/views/todo/index.php(27): CBaseController->widget('zii.widgets.CLi...', Array)
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#8 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#10 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#11 /home/dimitris/sites/todo/protected/controllers/TodoController.php(199): CController->render('index', Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 01:19:23 [error] [exception.CException] exception 'CException' with message 'Todos and its behaviors do not have a method or closure named "getData".' in /home/dimitris/sites/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getData', Array)
+#1 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): CActiveRecord->__call('getData', Array)
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): Todos->getData()
+#3 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(182): CBaseListView->init()
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(148): CListView->init()
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#6 /home/dimitris/sites/todo/protected/views/todo/index.php(27): CBaseController->widget('zii.widgets.CLi...', Array)
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#8 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#10 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#11 /home/dimitris/sites/todo/protected/controllers/TodoController.php(199): CController->render('index', Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 01:19:24 [error] [exception.CException] exception 'CException' with message 'Todos and its behaviors do not have a method or closure named "getData".' in /home/dimitris/sites/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getData', Array)
+#1 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): CActiveRecord->__call('getData', Array)
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): Todos->getData()
+#3 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(182): CBaseListView->init()
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(148): CListView->init()
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#6 /home/dimitris/sites/todo/protected/views/todo/index.php(27): CBaseController->widget('zii.widgets.CLi...', Array)
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#8 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#10 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#11 /home/dimitris/sites/todo/protected/controllers/TodoController.php(199): CController->render('index', Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 01:19:25 [error] [exception.CException] exception 'CException' with message 'Todos and its behaviors do not have a method or closure named "getData".' in /home/dimitris/sites/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getData', Array)
+#1 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): CActiveRecord->__call('getData', Array)
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): Todos->getData()
+#3 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(182): CBaseListView->init()
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(148): CListView->init()
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#6 /home/dimitris/sites/todo/protected/views/todo/index.php(27): CBaseController->widget('zii.widgets.CLi...', Array)
+#7 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#8 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#9 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#10 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#11 /home/dimitris/sites/todo/protected/controllers/TodoController.php(199): CController->render('index', Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 01:33:06 [error] [exception.CException] exception 'CException' with message 'Todos and its behaviors do not have a method or closure named "getCDbCriteria".' in /home/dimitris/sites/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getCDbCriteria', Array)
+#1 /home/dimitris/sites/todo/protected/controllers/TodoController.php(197): CActiveRecord->__call('getCDbCriteria', Array)
+#2 /home/dimitris/sites/todo/protected/controllers/TodoController.php(197): Todos->getCDbCriteria()
+#3 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionIndex()
+#4 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('index')
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/index')
+#14 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/todo/index
+---
+2012/11/14 01:35:10 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in /home/dimitris/sites/yii/framework/web/CController.php:337
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(310): CController->invalidActionParams(Object(CInlineAction))
+#1 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#3 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#4 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('setCompleted')
+#9 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/setComplet...')
+#10 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/todo/setCompleted/index
+HTTP_REFERER=http://todo/todo/index
+---
+2012/11/14 01:35:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "sindex".' in /home/dimitris/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(271): CController->missingAction('sindex')
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('sindex')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/sindex')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/todo/sindex
+---
+2012/11/14 01:35:31 [error] [exception.CException] exception 'CException' with message 'Property "Todos.creted_at" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('creted_at')
+#1 /home/dimitris/sites/yii/framework/web/helpers/CHtml.php(1809): CActiveRecord->__get('creted_at')
+#2 /home/dimitris/sites/yii/framework/zii/widgets/CDetailView.php(212): CHtml::value(Object(Todos), 'creted_at')
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(174): CDetailView->run()
+#4 /home/dimitris/sites/todo/protected/views/todo/view.php(32): CBaseController->widget('zii.widgets.CDe...', Array)
+#5 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#6 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#7 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#8 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('view', Array, true)
+#9 /home/dimitris/sites/todo/protected/controllers/TodoController.php(52): CController->render('view', Array)
+#10 [internal function]: TodoController->actionView('4')
+#11 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#12 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#15 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#17 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#19 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('view')
+#22 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/view')
+#23 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#24 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/todo/4
+HTTP_REFERER=http://todo/todo/create
+---
+2012/11/14 01:36:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "TODO".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('TODO')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/TODO
+---
+2012/11/14 01:37:26 [error] [php] Undefined variable: model (/home/dimitris/sites/todo/protected/views/todo/index.php:22)
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(870): TodoController->renderFile()
+#1 /home/dimitris/sites/yii/framework/web/CController.php(783): TodoController->renderPartial()
+#2 /home/dimitris/sites/todo/protected/controllers/TodoController.php(73): TodoController->render()
+#3 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionCreate()
+#4 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): TodoController->runAction()
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#8 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): TodoController->filterAccessControl()
+#9 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /home/dimitris/sites/yii/framework/web/CController.php(266): TodoController->runActionWithFilters()
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): TodoController->run()
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#14 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/dimitris/sites/todo/index.php(13): CWebApplication->run()
+REQUEST_URI=/todo/create
+in /home/dimitris/sites/todo/protected/views/todo/index.php (22)
+in /home/dimitris/sites/todo/protected/controllers/TodoController.php (73)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 01:37:45 [error] [php] Undefined variable: model (/home/dimitris/sites/todo/protected/views/todo/index.php:22)
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(870): TodoController->renderFile()
+#1 /home/dimitris/sites/yii/framework/web/CController.php(783): TodoController->renderPartial()
+#2 /home/dimitris/sites/todo/protected/controllers/TodoController.php(73): TodoController->render()
+#3 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionCreate()
+#4 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): TodoController->runAction()
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#8 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): TodoController->filterAccessControl()
+#9 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /home/dimitris/sites/yii/framework/web/CController.php(266): TodoController->runActionWithFilters()
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): TodoController->run()
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#14 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/dimitris/sites/todo/index.php(13): CWebApplication->run()
+REQUEST_URI=/todo/create
+in /home/dimitris/sites/todo/protected/views/todo/index.php (22)
+in /home/dimitris/sites/todo/protected/controllers/TodoController.php (73)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 01:37:47 [error] [php] Undefined variable: model (/home/dimitris/sites/todo/protected/views/todo/index.php:22)
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(870): TodoController->renderFile()
+#1 /home/dimitris/sites/yii/framework/web/CController.php(783): TodoController->renderPartial()
+#2 /home/dimitris/sites/todo/protected/controllers/TodoController.php(73): TodoController->render()
+#3 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionCreate()
+#4 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): TodoController->runAction()
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#8 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): TodoController->filterAccessControl()
+#9 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /home/dimitris/sites/yii/framework/web/CController.php(266): TodoController->runActionWithFilters()
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): TodoController->run()
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#14 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/dimitris/sites/todo/index.php(13): CWebApplication->run()
+REQUEST_URI=/todo/create
+in /home/dimitris/sites/todo/protected/views/todo/index.php (22)
+in /home/dimitris/sites/todo/protected/controllers/TodoController.php (73)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 01:37:58 [error] [php] Undefined variable: model (/home/dimitris/sites/todo/protected/views/todo/index.php:22)
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(870): TodoController->renderFile()
+#1 /home/dimitris/sites/yii/framework/web/CController.php(783): TodoController->renderPartial()
+#2 /home/dimitris/sites/todo/protected/controllers/TodoController.php(73): TodoController->render()
+#3 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionCreate()
+#4 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): TodoController->runAction()
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#8 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): TodoController->filterAccessControl()
+#9 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /home/dimitris/sites/yii/framework/web/CController.php(266): TodoController->runActionWithFilters()
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): TodoController->run()
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#14 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/dimitris/sites/todo/index.php(13): CWebApplication->run()
+REQUEST_URI=/todo/create
+in /home/dimitris/sites/todo/protected/views/todo/index.php (22)
+in /home/dimitris/sites/todo/protected/controllers/TodoController.php (73)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 01:38:00 [error] [php] Undefined variable: model (/home/dimitris/sites/todo/protected/views/todo/index.php:22)
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(870): TodoController->renderFile()
+#1 /home/dimitris/sites/yii/framework/web/CController.php(783): TodoController->renderPartial()
+#2 /home/dimitris/sites/todo/protected/controllers/TodoController.php(73): TodoController->render()
+#3 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): TodoController->actionCreate()
+#4 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): TodoController->runAction()
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#8 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): TodoController->filterAccessControl()
+#9 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /home/dimitris/sites/yii/framework/web/CController.php(266): TodoController->runActionWithFilters()
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): TodoController->run()
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#14 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/dimitris/sites/todo/index.php(13): CWebApplication->run()
+REQUEST_URI=/todo/create
+in /home/dimitris/sites/todo/protected/views/todo/index.php (22)
+in /home/dimitris/sites/todo/protected/controllers/TodoController.php (73)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 01:42:52 [error] [exception.CException] exception 'CException' with message 'TodoController and its behaviors do not have a method or closure named "loadModel".' in /home/dimitris/sites/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/dimitris/sites/todo/protected/controllers/TodoController.php(85): CComponent->__call('loadModel', Array)
+#1 /home/dimitris/sites/todo/protected/controllers/TodoController.php(85): TodoController->loadModel('4')
+#2 [internal function]: TodoController->actionUpdate('4')
+#3 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(TodoController), Array)
+#4 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(TodoController), Object(ReflectionMethod), Array)
+#5 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#7 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#8 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#9 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#10 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#11 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#12 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('update')
+#14 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todo/update')
+#15 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#16 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/todo/update/4
+HTTP_REFERER=http://todo/todo/index?status=completedasdas
+---
+2012/11/14 01:43:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "todos/index".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todos/index')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/todos/index
+HTTP_REFERER=http://todo/todo/update/4
+---
+2012/11/14 01:45:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "todos/index".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('todos/index')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/todos/index
+HTTP_REFERER=http://todo/todo/update/5
+---
+2012/11/14 20:47:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "items".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/items
+---
+2012/11/14 20:47:29 [error] [exception.CException] exception 'CException' with message 'ItemController cannot find the requested view "index".' in /home/dimitris/sites/yii/framework/web/CController.php:879
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#1 /home/dimitris/sites/todo/protected/controllers/ItemController.php(199): CController->render('index', Array)
+#2 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): ItemController->actionIndex()
+#3 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#6 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#7 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#8 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#9 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('item')
+#13 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/item
+---
+2012/11/14 20:48:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "items".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/items
+---
+2012/11/14 20:50:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lists".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('lists')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/lists
+---
+2012/11/14 20:55:42 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. The SQL statement executed was: SELECT COUNT(*) FROM `list_items` `t` WHERE ((t.member_id = :member) AND (t.completed = :completed)) AND (t.deleted = :deleted).
+in /home/dimitris/sites/todo/protected/views/items/index.php (11)
+in /home/dimitris/sites/todo/protected/controllers/ItemsController.php (198)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 20:55:42 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. The SQL statement executed was: SELECT COUNT(*) FROM `list_items` `t` WHERE ((t.member_id = :member) AND (t.completed = :completed)) AND (t.deleted = :deleted)' in /home/dimitris/sites/yii/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(1540): CDbCommand->queryScalar()
+#2 /home/dimitris/sites/todo/protected/views/items/index.php(11): CActiveRecord->count()
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#5 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#6 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#7 /home/dimitris/sites/todo/protected/controllers/ItemsController.php(198): CController->render('index', Array)
+#8 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): ItemsController->actionIndex()
+#9 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#10 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#11 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#12 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#13 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#15 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#17 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#18 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items')
+#19 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#20 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#21 {main}
+REQUEST_URI=/items
+---
+2012/11/14 20:56:08 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.member_id3' in 'where clause'. The SQL statement executed was: SELECT COUNT(*) FROM `list_items` `t` WHERE ((t.member_id3 = :member) AND (t.completed = :completed)) AND (t.deleted = :deleted).
+in /home/dimitris/sites/todo/protected/views/items/index.php (11)
+in /home/dimitris/sites/todo/protected/controllers/ItemsController.php (198)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 20:56:08 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.member_id3' in 'where clause'. The SQL statement executed was: SELECT COUNT(*) FROM `list_items` `t` WHERE ((t.member_id3 = :member) AND (t.completed = :completed)) AND (t.deleted = :deleted)' in /home/dimitris/sites/yii/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(1540): CDbCommand->queryScalar()
+#2 /home/dimitris/sites/todo/protected/views/items/index.php(11): CActiveRecord->count()
+#3 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#4 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#5 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#6 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#7 /home/dimitris/sites/todo/protected/controllers/ItemsController.php(198): CController->render('index', Array)
+#8 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): ItemsController->actionIndex()
+#9 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#10 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#11 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#12 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#13 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#14 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#15 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#16 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#17 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#18 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items')
+#19 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#20 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#21 {main}
+REQUEST_URI=/items
+---
+2012/11/14 20:57:57 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.member_id3' in 'where clause'. The SQL statement executed was: SELECT COUNT(*) FROM `list_items` `t` WHERE ((t.member_id3 = :member) AND (t.completed = :completed)) AND (t.deleted = :deleted).
+in /home/dimitris/sites/todo/protected/views/items/index.php (23)
+in /home/dimitris/sites/todo/protected/controllers/ItemsController.php (198)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 20:57:57 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.member_id3' in 'where clause'. The SQL statement executed was: SELECT COUNT(*) FROM `list_items` `t` WHERE ((t.member_id3 = :member) AND (t.completed = :completed)) AND (t.deleted = :deleted)' in /home/dimitris/sites/yii/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(1540): CDbCommand->queryScalar()
+#2 /home/dimitris/sites/yii/framework/web/CActiveDataProvider.php(179): CActiveRecord->count(Object(CDbCriteria))
+#3 /home/dimitris/sites/yii/framework/web/CDataProvider.php(193): CActiveDataProvider->calculateTotalItemCount()
+#4 /home/dimitris/sites/yii/framework/web/CActiveDataProvider.php(129): CDataProvider->getTotalItemCount()
+#5 /home/dimitris/sites/yii/framework/web/CDataProvider.php(137): CActiveDataProvider->fetchData()
+#6 /home/dimitris/sites/yii/framework/zii/widgets/CBaseListView.php(108): CDataProvider->getData()
+#7 /home/dimitris/sites/yii/framework/zii/widgets/CListView.php(182): CBaseListView->init()
+#8 /home/dimitris/sites/yii/framework/web/CBaseController.php(148): CListView->init()
+#9 /home/dimitris/sites/yii/framework/web/CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#10 /home/dimitris/sites/todo/protected/views/items/index.php(23): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#12 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#13 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#14 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#15 /home/dimitris/sites/todo/protected/controllers/ItemsController.php(198): CController->render('index', Array)
+#16 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): ItemsController->actionIndex()
+#17 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#18 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#20 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#21 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#22 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#24 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#26 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items')
+#27 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#28 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/items
+---
+2012/11/14 20:58:32 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.member_id3' in 'where clause'. The SQL statement executed was: SELECT * FROM `list_items` `t` WHERE ((t.member_id3 = :member) AND (t.completed = :completed)) AND (t.deleted = :deleted).
+in /home/dimitris/sites/todo/protected/controllers/ItemsController.php (195)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 20:58:32 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't.member_id3' in 'where clause'. The SQL statement executed was: SELECT * FROM `list_items` `t` WHERE ((t.member_id3 = :member) AND (t.completed = :completed)) AND (t.deleted = :deleted)' in /home/dimitris/sites/yii/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/db/CDbCommand.php(390): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(1291): CDbCommand->queryAll()
+#2 /home/dimitris/sites/yii/framework/db/ar/CActiveRecord.php(1410): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/dimitris/sites/todo/protected/controllers/ItemsController.php(195): CActiveRecord->findAll()
+#4 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): ItemsController->actionIndex()
+#5 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#7 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#8 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#9 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#10 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#11 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#12 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#14 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items')
+#15 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#16 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/items
+---
+2012/11/14 21:02:51 [error] [exception.CException] exception 'CException' with message 'Property "CActiveDataProvider.getTotalItemCount" is not defined.' in /home/dimitris/sites/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /home/dimitris/sites/todo/protected/views/items/index.php(11): CComponent->__get('getTotalItemCou...')
+#1 /home/dimitris/sites/yii/framework/web/CBaseController.php(127): require('/home/dimitris/...')
+#2 /home/dimitris/sites/yii/framework/web/CBaseController.php(96): CBaseController->renderInternal('/home/dimitris/...', Array, true)
+#3 /home/dimitris/sites/yii/framework/web/CController.php(870): CBaseController->renderFile('/home/dimitris/...', Array, true)
+#4 /home/dimitris/sites/yii/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#5 /home/dimitris/sites/todo/protected/controllers/ItemsController.php(200): CController->render('index', Array)
+#6 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): ItemsController->actionIndex()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#14 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('')
+#16 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items')
+#17 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/items
+---
+2012/11/14 21:03:00 [error] [php] Undefined variable: model (/home/dimitris/sites/todo/protected/views/items/index.php:18)
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(870): ItemsController->renderFile()
+#1 /home/dimitris/sites/yii/framework/web/CController.php(783): ItemsController->renderPartial()
+#2 /home/dimitris/sites/todo/protected/controllers/ItemsController.php(200): ItemsController->render()
+#3 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(50): ItemsController->actionIndex()
+#4 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams()
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): ItemsController->runAction()
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(1146): CAccessControlFilter->filter()
+#8 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): ItemsController->filterAccessControl()
+#9 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /home/dimitris/sites/yii/framework/web/CController.php(266): ItemsController->runActionWithFilters()
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): ItemsController->run()
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#14 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/dimitris/sites/todo/index.php(13): CWebApplication->run()
+REQUEST_URI=/items
+in /home/dimitris/sites/todo/protected/views/items/index.php (18)
+in /home/dimitris/sites/todo/protected/controllers/ItemsController.php (200)
+in /home/dimitris/sites/todo/index.php (13)
+2012/11/14 21:14:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "list/update".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('list/update')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/list/update/8
+HTTP_REFERER=http://todo/items/index
+---
+2012/11/14 21:26:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "status".' in /home/dimitris/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(271): CController->missingAction('status')
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('status')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items/status/co...')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/items/status/completed
+HTTP_REFERER=http://todo/items
+---
+2012/11/14 21:26:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "status".' in /home/dimitris/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(271): CController->missingAction('status')
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('status')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items/status/co...')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/items/status/completed
+HTTP_REFERER=http://todo/items
+---
+2012/11/14 21:27:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "status".' in /home/dimitris/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(271): CController->missingAction('status')
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('status')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items/status/co...')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/items/status/completed
+HTTP_REFERER=http://todo/items
+---
+2012/11/14 21:27:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "status".' in /home/dimitris/sites/yii/framework/web/CController.php:484
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CController.php(271): CController->missingAction('status')
+#1 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('status')
+#2 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items/status/co...')
+#3 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/items/status/completed
+HTTP_REFERER=http://todo/items/status/completed
+---
+2012/11/14 21:27:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "list/update".' in /home/dimitris/sites/yii/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('list/update')
+#1 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/list/update/9
+HTTP_REFERER=http://todo/items
+---
+2012/11/14 21:59:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /home/dimitris/sites/todo/protected/controllers/ItemsController.php:227
+Stack trace:
+#0 /home/dimitris/sites/todo/protected/controllers/ItemsController.php(85): ItemsController->loadModel('1')
+#1 [internal function]: ItemsController->actionUpdate('1')
+#2 /home/dimitris/sites/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(ItemsController), Array)
+#3 /home/dimitris/sites/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(ItemsController), Object(ReflectionMethod), Array)
+#4 /home/dimitris/sites/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /home/dimitris/sites/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /home/dimitris/sites/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 /home/dimitris/sites/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 /home/dimitris/sites/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /home/dimitris/sites/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /home/dimitris/sites/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /home/dimitris/sites/yii/framework/web/CWebApplication.php(283): CController->run('update')
+#13 /home/dimitris/sites/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('items/update')
+#14 /home/dimitris/sites/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /home/dimitris/sites/todo/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/items/update/1
+---
