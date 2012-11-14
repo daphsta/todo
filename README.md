@@ -10,7 +10,7 @@ This APP was created with Yii Framework version 1.1.12
 In Order to Install it on your Server
  - Create a database using the todo.sql in /protected/data
  - Edit /protected/config/main.php to set username/password for the db user
- - Download and extract yii framework in your web directory
+ - Download and extract yii framework in your web directory (clone it from https://github.com/dimmey/yii)
  - Edit index.php to set Yii Framework's path
 
 # Files I Created
